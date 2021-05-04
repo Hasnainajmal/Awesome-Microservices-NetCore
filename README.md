@@ -1,10 +1,10 @@
 # 💎 Awesome Microservices .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
-> A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
+> A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .net core
 
 ## Give a Star! ⭐️
 
-If you liked this repo or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers around the world 👍. Thank you very much.
+If you liked this repo or if it helped you, please give a star  for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers around the world 👍. Thank you very much.
 
 ## Contents
 - [Training Series](#training-series)
@@ -20,7 +20,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 ## Training Series
 
 ### Building Microservices On .NET Core 
-January 2019-September 2019
+January 2019-September 2020
 
 1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-net-core-part-1-plan/)
 
